@@ -1,6 +1,6 @@
 # springboot-mongodb-docker
 
-forked from javatechie
+created from javatechie
 
 https://github.com/Java-Techie-jt/springboot-mongo-docker.git
 
